@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá pessoal 🚀
 
 <!--
-**oliveiranthony/oliveiranthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sou Anthony Oliveira, estudante de Engenharia de Computação 💻 e apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente eu...
+ Estudo Linguagem C, Algoritimos estruturados, Pyhton
+ Trabalhando em projetos pessoais de aprendizado prático
+ Estou buscando oprtunidades de estágio em TI
+- 🤓 Interagindo comigo:
+ Estou aberto a contribuir em projetos
+ Amo de aprender novas tecnologias, dedico meu tempo a objetivos e aprendizado constante
+- 🎯 Objetivos:
+ Aprender cada vez mais sobre desenvolvimento, linguagens de programação e novas tecnologias
+ Melhorar minhas habilidades
+- 📫Contato:
+ LinkedIn: [www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358]
+ GitHub: [github.com/oliveiranthony]
+ Email: [anthonyol733@gmail.com]
