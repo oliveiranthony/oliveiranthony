@@ -1,7 +1,7 @@
-## Olá pessoal 🚀
+Olá pessoal 🚀
 
 <!--
-**Sou Anthony Oliveira, estudante de Engenharia de Computação 💻 e apaixonado por tecnologia e programação.
+Sou Anthony Oliveira, estudante de Engenharia de Computação 💻 e apaixonado por tecnologia e programação.
 
 - 📚 Atualmente eu...
  Estudo Linguagem C, Algoritimos estruturados, Pyhton
