@@ -13,7 +13,7 @@
  ### 💭 *Te convido a se conectar comigo!*
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthony_oliveira._/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white0)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white0)](anthonyol733@gmal.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white0)](mailto:anthonyol733@gmal.com)
 
 ![cat laptop GIF](https://github.com/user-attachments/assets/361dd204-3875-4c1b-a364-caf7c1fa909a)
 
