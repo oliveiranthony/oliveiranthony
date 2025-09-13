@@ -3,6 +3,7 @@
 *Olá, Mundo!* 🌎
 
 *Me chamo Anthony! Muito prazer recebe-lo em meu perfil.* 🙋🏻
+- *Atualmente estudante de Engenharia de Computação na UNIARA;*
 - *Aqui você irá encontrar os mais diversos projetos que ja desenvolvi ao longo do meu aprendizado;*
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
 - *Tenho certeza que meu aprendizado terá bons olhares.*
@@ -14,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white0)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white0)](anthonyol733@gmal.com)
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/badd2cda-b664-4ee3-ae56-131e0488459d" />
+![Gifs animados de computadoras](https://github.com/user-attachments/assets/9fce8d7b-c7bb-458d-808d-5109aa3bba30)
 
 ---
 
