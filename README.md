@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white0)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white0)](anthonyol733@gmal.com)
 
-![Gifs animados de computadoras](https://github.com/user-attachments/assets/5363671b-6b8b-493e-ab9e-d86604ee5748)
+![cat laptop GIF](https://github.com/user-attachments/assets/361dd204-3875-4c1b-a364-caf7c1fa909a)
 
 
 ---
