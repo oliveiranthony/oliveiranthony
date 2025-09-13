@@ -2,8 +2,6 @@
 ---
 *Olá, Mundo!* 🌎
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-
 *Me chamo Anthony! Muito prazer recebe-lo em meu perfil.* 🙋🏻
 - *Aqui você irá encontrar os mais diversos projetos que ja desenvolvi ao longo do meu aprendizado;*
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
