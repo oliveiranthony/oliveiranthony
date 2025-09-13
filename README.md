@@ -4,7 +4,7 @@
 
 *Me chamo Anthony! Muito prazer recebe-lo em meu perfil.* 🙋🏻
 - *Atualmente estudante de Engenharia de Computação na UNIARA;*
-- *Aqui você irá encontrar os mais diversos projetos que ja desenvolvi ao longo do meu aprendizado;*
+- *Aqui você irá encontrar os mais diversos projetos que irei desenvolver ao longo do meu aprendizado;*
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
 - *Tenho certeza que meu aprendizado terá bons olhares.*
 
