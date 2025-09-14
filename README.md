@@ -8,7 +8,7 @@
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
 - *Tenho certeza que meu aprendizado terá bons olhares.*
 ---
-![snake gif](https://github.com/oliveiranthony/oliveiranthony/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/oliveiranthony/oliveiranthony/blob/output/github-contribution-grid-snake.svg)
 ---
 
  ### 💭 *Te convido a se conectar comigo!*
