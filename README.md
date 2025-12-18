@@ -10,10 +10,11 @@
 
 ---
 
- ### 💭 *Te convido a se conectar comigo!*
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthony_oliveira._/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white0)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white0)](mailto:anthonyol733@gmal.com)
+ ### 💭 *Entre em Contato!*
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/anthony_oliveira._/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anthonyol733@gmail.com)
+
 
 ![cat laptop GIF](https://github.com/user-attachments/assets/361dd204-3875-4c1b-a364-caf7c1fa909a)
 
@@ -21,9 +22,11 @@
 ---
 
 ### 🔧 *Tecnologias & Ferramentas*
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
 
 ---
 
