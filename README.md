@@ -4,6 +4,7 @@
 
 *Me chamo Anthony! Muito prazer recebe-lo(a) em meu perfil.* 🙋🏻
 - *Atualmente estudante de Engenharia de Computação na UNIARA;*
+- *Desenvolvedor Back-End em formação*
 - *Aqui você irá encontrar os mais diversos projetos que irei desenvolver ao longo do meu aprendizado;*
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
 - *Tenho certeza que meu aprendizado terá bons olhares.*
@@ -29,5 +30,15 @@
 
 
 ---
+
+### 📈 *Estatísticas do meu GitHub*
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliveiranthony&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiranthony&layout=compact&theme=tokyonight" />
+</p>
+
+
+---
+
 
 ✨ *Obrigado pela visita! Fique à vontade para explorar meus repositórios.* 🚀
