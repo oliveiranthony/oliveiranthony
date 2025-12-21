@@ -22,10 +22,7 @@
 ---
 
 ### 🔧 *Tecnologias & Ferramentas*
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+[![My Skills](https://skillicons.dev/icons?i=c,java,github,vscode,eclipse)](https://skillicons.dev)
 
 ---
 
