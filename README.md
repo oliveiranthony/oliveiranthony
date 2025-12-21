@@ -26,7 +26,7 @@
 
 ---
 
-### 📈 *Estatísticas do meu GitHub*
+### 📈 *Estatísticas*
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliveiranthony&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiranthony&layout=compact&theme=tokyonight" />
