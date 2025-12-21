@@ -1,8 +1,8 @@
-## *👨🏻‍💻 Anthony Oliveira Carvalho*
----
-*Olá, Mundo!* 🌎
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Anthony!;" />
+</h1>
 
-*Me chamo Anthony! Muito prazer recebe-lo(a) em meu perfil.* 🙋🏻
+*Muito prazer recebe-lo(a) em meu perfil.* 🙋🏻
 - *Atualmente estudante de Engenharia de Computação na UNIARA;*
 - *Desenvolvedor Back-End em formação;*
 - *Aqui você irá encontrar os mais diversos projetos que irei desenvolver ao longo do meu aprendizado;*
@@ -19,7 +19,6 @@
 
 ![cat laptop GIF](https://github.com/user-attachments/assets/361dd204-3875-4c1b-a364-caf7c1fa909a)
 
-
 ---
 
 ### 🔧 *Tecnologias & Ferramentas*
@@ -27,7 +26,6 @@
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
 
 ---
 
@@ -37,8 +35,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiranthony&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
-
-✨ *Obrigado pela visita! Fique à vontade para explorar meus repositórios.* 🚀
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
