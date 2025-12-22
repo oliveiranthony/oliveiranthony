@@ -21,7 +21,7 @@
 
 ---
 
-### 🔧 *Tecnologias & Ferramentas*
+### 🔧 *Linguagens & Ferramentas*
 [![My Skills](https://skillicons.dev/icons?i=c,java,github,vscode,eclipse)](https://skillicons.dev)
 
 ---
