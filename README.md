@@ -34,7 +34,7 @@
 
 ---
 
-### 🐍 *Snake game*
+### 🐍 *Snake Game*
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliveiranthony/oliveiranthony/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliveiranthony/oliveiranthony/output/github-contribution-grid-snake-dark.svg">
