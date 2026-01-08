@@ -13,7 +13,7 @@
 
  ### 💭 *Entre em Contato!*
 [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/anthony_oliveira._/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-oliveira-carvalho-b1a1a8358/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-oliveira-carvalho)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anthonyol733@gmail.com)
 
 
