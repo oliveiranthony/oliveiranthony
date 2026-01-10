@@ -25,6 +25,27 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,github,vscode,eclipse)](https://skillicons.dev)
 
 ---
+### 📈 *Estatísticas*
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=oliveiranthony&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oliveiranthony&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+  />
+</p>
+
+<br clear="both">
+
+---
 
 ### 🐍 *Snake Game*
 <picture align="center">
@@ -38,5 +59,3 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
-
-
