@@ -35,9 +35,6 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=oliveiranthony&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
-
-
-
   <img 
     align="left"
     alt="Top Languages"
