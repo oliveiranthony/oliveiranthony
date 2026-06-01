@@ -22,7 +22,7 @@
 ---
 
 ### 🔧 *Linguagens & Ferramentas*
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,c,postgresql,git,github,vscode,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,c,postgresql,mysql,git,github,vscode,idea,eclipse)](https://skillicons.dev)
 
 ---
 ### 📈 *Estatísticas*
