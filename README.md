@@ -4,7 +4,7 @@
 
 *Muito prazer recebe-lo(a) em meu perfil.* 🙋🏻
 - *Atualmente estudante de Engenharia de Computação na UNIARA;*
-- *Desenvolvedor Back-End em formação;*
+- *Desenvolvedor Full Stack em formação;*
 - *Aqui você irá encontrar os mais diversos projetos que irei desenvolver ao longo do meu aprendizado;*
 - *Atividades Acadêmicas que somaram significativamente com meu desenvolvimento tecnico;*
 - *Tenho certeza que meu aprendizado terá bons olhares.*
@@ -22,7 +22,7 @@
 ---
 
 ### 🔧 *Linguagens & Ferramentas*
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,html,css,postgresql,mysql,mongodb,git,github,vscode,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,postgresql,mysql,mongodb,git,vscode,idea,eclipse)](https://skillicons.dev)
 
 ---
 ### 📈 *Estatísticas*
