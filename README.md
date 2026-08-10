@@ -38,7 +38,7 @@
   <img 
     align="left"
     alt="Top Languages"
-    height="220"
+    height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=oliveiranthony&layout=normal&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 </p>
